@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/litexlang/golitex/releases/download/0.9.106-beta/litex_0.9.106-beta_windows_amd64.zip",
-            "hash": "71d4ea868e2fd714bead0a0bf281bdef6e69fc7d18b44d2501247d5cf2c48879"
+            "hash": "a3b7fad60b001b6344948dd2e8d874718c2c517fb2d094b74e5afede6a06dc7b"
         }
     },
     "bin": [["litex.exe", "litex"]],
