@@ -1,12 +1,12 @@
 {
-    "version": "0.9.106-beta",
+    "version": "0.9.107-beta",
     "description": "A simple formal proof language and verifier",
     "homepage": "https://litexlang.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/litexlang/golitex/releases/download/0.9.106-beta/litex_0.9.106-beta_windows_amd64.zip",
-            "hash": "a3b7fad60b001b6344948dd2e8d874718c2c517fb2d094b74e5afede6a06dc7b"
+            "url": "https://github.com/litexlang/golitex/releases/download/0.9.107-beta/litex_0.9.107-beta_windows_amd64.zip",
+            "hash": "5287e74340a2e22395ceccc9bef24e87bfe4ed420a3f2fa489fab3242ee1e351"
         }
     },
     "bin": [["litex.exe", "litex"]],
